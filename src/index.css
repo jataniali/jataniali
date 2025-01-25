@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+.scrollbar-hide::-webkit-scrollbar{
+display: none;
+}
+.sticky {
+    position: sticky; /* Enables sticky positioning */
+    top: 0; /* Ensures it sticks to the top */
+    z-index: 50; /* Keeps it above other elements */
+  }
+  .bgOpacity{
+    @apply bg-black bg-opacity-40 rounded-md mt-2;
+  }
+  .protfoliostyl{
+  @apply border-[1px] rounded hover:bg-opacity-25 text-xl duration-300 cursor-pointer w-auto h-auto
+  }
