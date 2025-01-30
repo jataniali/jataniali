@@ -63,6 +63,8 @@
         "postcss": "8.5.1",
         "@babel/core": "7.23.6",
         "babel-loader": "8.3.0"
-    }
+    },
+    "homepage": "https://jataniali.github.io/jataniali"
+
    
 }
