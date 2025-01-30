@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/jataniali/static/css/main.08db733a.css",
-    "main.js": "/jataniali/static/js/main.d0add170.js",
+    "main.js": "/jataniali/static/js/main.691fd4ce.js",
     "static/js/488.2c2c4401.chunk.js": "/jataniali/static/js/488.2c2c4401.chunk.js",
     "static/media/edu1.png": "/jataniali/static/media/edu1.c6c0a8524da97876feb8.png",
     "static/media/edu2.png": "/jataniali/static/media/edu2.658222e0320422801859.png",
@@ -12,11 +12,11 @@
     "static/media/codelife.jpeg": "/jataniali/static/media/codelife.7f0f9a8880683c7459bd.jpeg",
     "index.html": "/jataniali/index.html",
     "main.08db733a.css.map": "/jataniali/static/css/main.08db733a.css.map",
-    "main.d0add170.js.map": "/jataniali/static/js/main.d0add170.js.map",
+    "main.691fd4ce.js.map": "/jataniali/static/js/main.691fd4ce.js.map",
     "488.2c2c4401.chunk.js.map": "/jataniali/static/js/488.2c2c4401.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.08db733a.css",
-    "static/js/main.d0add170.js"
+    "static/js/main.691fd4ce.js"
   ]
 }
