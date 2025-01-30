@@ -61,5 +61,6 @@
         "@svgr/webpack": "8.1.0",
         "postcss": "8.5.1"
     },
-    "homepage": "https://jataniali.github.io/jataniali"
+   "homepage": "https://jataniali.github.io/jataniali"
+
 }
