@@ -38,7 +38,8 @@ const Navbar = () => {
           {/* Mobile Menu Toggle Button */}
           <span
             onClick={() => setShowmenu(!showmenu)}
-            className="lg:hidden md:hidden text-xl bg-black w-10 h-10 inline-flex items-center justify-center rounded-full text-designColor cursor-pointer"
+            className="lg:hidden md:hidden text-xl bg-black w-10 h-10 inline-flex 
+            items-center justify-center rounded-full text-designColor cursor-pointer"
           >
             <FiMenu />
           </span>
@@ -54,17 +55,22 @@ const Navbar = () => {
                     <FaTwitter />
                   </li>
                   <li className="hover:text-designColor duration-300 bg-black p-2 rounded-full">
-                    <a href='https://www.instagram.com/mr_courtsey?igsh=MXZzaXN6eDdxenR0Yg=='></a>
-                    <a href=''></a>
+                    <a href='https://www.instagram.com/mr_courtsey?igsh=MXZzaXN6eDdxenR0Yg=='  target="_blank" rel="noopener noreferrer">
                     <FaInstagram />
+                    </a>
+                    
                   </li>
                   <li className="hover:text-designColor duration-300 bg-black p-2 rounded-full">
-                    <a href='https://www.linkedin.com/in/mr-courtesy-ali-a2707b2b6/'></a>
+                    <a href='https://www.linkedin.com/in/mr-courtesy-ali-a2707b2b6/'  target="_blank" rel="noopener noreferrer">
                     <FaLinkedinIn />
+                    </a>
+                    
                   </li>
                   <li className="hover:text-designColor duration-300 bg-black p-2 rounded-full">
-                    <a href='https://github.com/jataniali'></a>
+                    <a href='https://github.com/jataniali'  target="_blank" rel="noopener noreferrer">
                     <FaGithub />
+                    </a>
+                    
                   </li>
                 </ul>
                 <div className="text-slate-100 list-none flex flex-col gap-6 mt-4">
